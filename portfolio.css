@@ -439,3 +439,29 @@ position: relative;
     box-shadow: 0 0 25px var(--main-color);
     background-color: var(--main-color);
 }
+.contact-h2{
+    margin-bottom: 3rem;
+    color: white;
+
+}
+.contact form{
+    max-width: 70rem;
+    margin:1rem auto;
+    margin-bottom: 3rem;
+    text-align: center;
+
+}
+.contact form .input-box input, .contact form textarea{
+    width:100%;
+    padding: 1.5rem;
+    font-size: 1.6rem;
+    color:var(--main-color);
+    background-color: var(--bg-color);
+    border-radius: 0.8rem;
+    border: 2px solid var(--main-color);
+    margin:qrem 0;
+    resize: none;
+}
+.contact f0rm .btn{
+margin-top: 2rem;
+}
